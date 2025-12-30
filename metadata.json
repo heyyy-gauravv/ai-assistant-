@@ -1,0 +1,7 @@
+{
+  "name": "Nova Voice Assistant",
+  "description": "A sleek, modern voice-controlled intelligent assistant powered by Gemini. Features real-time speech recognition, text-to-speech, and a beautiful glassmorphic UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
